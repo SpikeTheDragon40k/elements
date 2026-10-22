@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/source.xml" />
 		</update>
 	</info>
 	<element name="Lorwyn: First Light" type="Source" source="Core" id="ID_WOTC_SOURCE_LORWYN_FIRST_LIGHT">
@@ -13,7 +13,7 @@
 		<setters>
 			<set name="abbreviation">LFL</set>
 			<set name="url">https://marketplace.dndbeyond.com/category/DBU4HPAC7</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/LFL.png</set>
+			<set name="image">https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/LFL.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="information">D&amp;D 5.5e</set>
 			<set name="official">true</set>

@@ -5,7 +5,7 @@
 		<description>The Undead Patron subclass from Ravenloft: The Horrors Within</description>
 		<author url="https://dndstore.wizards.com/us/en/product/1001494/2024-player-s-handbook-digital-plus-physical-bundle">Wizards of the Coast</author>
 		<update version="0.0.1">
-			<file name="warlock-undead.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ravenloft-the-horrors-within/archetypes/warlock-undead.xml" />
+			<file name="warlock-undead.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/ravenloft-the-horrors-within/archetypes/warlock-undead.xml" />
 		</update>
 	</info>
 

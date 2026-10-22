@@ -4,7 +4,7 @@
 		<name>Dragon Cultist</name>
 		<description>The Dragon Cultist background from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="background-dragon-cultist.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-dragon-cultist.xml" />
+			<file name="background-dragon-cultist.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-dragon-cultist.xml" />
 		</update>
 	</info>
 

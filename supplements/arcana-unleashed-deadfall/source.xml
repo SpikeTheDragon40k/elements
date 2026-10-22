@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed-deadfall/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed-deadfall/source.xml" />
 		</update>
 	</info>
 	<element name="Arcana Unleashed: Deadfall" type="Source" source="Core" id="ID_WOTC_SOURCE_ARCANA_UNLEASHED_DEADFALL">

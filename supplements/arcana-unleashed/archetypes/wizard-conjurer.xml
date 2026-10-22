@@ -4,7 +4,7 @@
 		<name>Conjurer</name>
 		<description>The Conjurer subclass from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="wizard-conjurer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/archetypes/wizard-conjurer.xml" />
+			<file name="wizard-conjurer.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/archetypes/wizard-conjurer.xml" />
 		</update>
 	</info>
 

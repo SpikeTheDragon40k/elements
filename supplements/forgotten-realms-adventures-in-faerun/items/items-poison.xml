@@ -4,7 +4,7 @@
 		<name>Poison</name>
 		<description>Poison from Forgotten Realms: Adventures in Faerûn.</description>
 		<update version="0.0.1">
-			<file name="items-poison.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-adventures-in-faerun/items/items-poison.xml" />
+			<file name="items-poison.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-adventures-in-faerun/items/items-poison.xml" />
 		</update>
 	</info>
 

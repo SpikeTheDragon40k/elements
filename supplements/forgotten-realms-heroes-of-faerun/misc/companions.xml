@@ -4,7 +4,7 @@
 		<name>Companions</name>
 		<description>Companions from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="companions.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/misc/companions.xml" />
+			<file name="companions.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/misc/companions.xml" />
 		</update>
 	</info>
 

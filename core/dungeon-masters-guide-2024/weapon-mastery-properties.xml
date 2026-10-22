@@ -4,7 +4,7 @@
 		<name>Mastery Properties</name>
 		<description>The Mastery Properties for firearms in the Dungeons Master’s Guide (2024).</description>
 		<update version="0.0.1">
-			<file name="weapon-mastery-properties.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/weapon-mastery-properties.xml" />
+			<file name="weapon-mastery-properties.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/weapon-mastery-properties.xml" />
 		</update>
 	</info>
 

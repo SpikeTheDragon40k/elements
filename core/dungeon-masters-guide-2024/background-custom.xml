@@ -4,7 +4,7 @@
 		<name>Custom Background</name>
 		<description>Custom Background from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.1">
-			<file name="background-custom.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/background-custom.xml" />
+			<file name="background-custom.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/background-custom.xml" />
 		</update>
 	</info>
 

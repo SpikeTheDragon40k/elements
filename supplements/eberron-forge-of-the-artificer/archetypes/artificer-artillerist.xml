@@ -4,7 +4,7 @@
 		<name>Artillerist</name>
 		<description>The Artillerist subclass from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="artificer-artillerist.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/archetypes/artificer-artillerist.xml" />
+			<file name="artificer-artillerist.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/archetypes/artificer-artillerist.xml" />
 		</update>
 	</info>
 

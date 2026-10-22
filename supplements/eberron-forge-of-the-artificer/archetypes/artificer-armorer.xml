@@ -4,7 +4,7 @@
 		<name>Armorer</name>
 		<description>The Armorer subclass from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="artificer-armorer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/archetypes/artificer-armorer.xml" />
+			<file name="artificer-armorer.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/archetypes/artificer-armorer.xml" />
 		</update>
 	</info>
 	<element name="Armorer" type="Archetype" source="Eberron: Forge of the Artificer" id="ID_WOTC_EFOTA_ARCHETYPE_ARTIFICER_ARMORER">

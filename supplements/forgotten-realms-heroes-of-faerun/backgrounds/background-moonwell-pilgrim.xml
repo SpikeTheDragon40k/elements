@@ -4,7 +4,7 @@
 		<name>Moonwell Pilgrim</name>
 		<description>The Moonwell Pilgrim background from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="background-moonwell-pilgrim.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-moonwell-pilgrim.xml" />
+			<file name="background-moonwell-pilgrim.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-moonwell-pilgrim.xml" />
 		</update>
 	</info>
 

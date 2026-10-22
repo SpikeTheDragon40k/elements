@@ -4,7 +4,7 @@
 		<name>Lorwyn Expert</name>
 		<description>The Lorwyn Expert Background from Lorwyn: First Light</description>
 		<update version="0.0.1">
-			<file name="background-lorwyn-expert.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/backgrounds/background-lorwyn-expert.xml" />
+			<file name="background-lorwyn-expert.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/backgrounds/background-lorwyn-expert.xml" />
 		</update>
 	</info>
 

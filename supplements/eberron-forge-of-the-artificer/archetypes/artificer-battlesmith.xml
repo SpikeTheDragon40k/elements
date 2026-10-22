@@ -4,7 +4,7 @@
 		<name>Battle Smith</name>
 		<description>The Battle Smith subclass from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="artificer-battlesmith.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/archetypes/artificer-battlesmith.xml" />
+			<file name="artificer-battlesmith.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/archetypes/artificer-battlesmith.xml" />
 		</update>
 	</info>
 

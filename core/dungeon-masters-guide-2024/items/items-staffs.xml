@@ -4,7 +4,7 @@
 		<name>Staffs</name>
 		<description>Magical Staffs from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.2">
-			<file name="items-staffs.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/items/items-staffs.xml" />
+			<file name="items-staffs.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/items/items-staffs.xml" />
 		</update>
 	</info>
 

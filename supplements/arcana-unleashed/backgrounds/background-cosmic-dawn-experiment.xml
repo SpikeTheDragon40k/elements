@@ -4,7 +4,7 @@
 		<name>Cosmic Dawn Experiment</name>
 		<description>The Cosmic Dawn Experiment background from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="background-cosmic-dawn-experiment.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/backgrounds/background-cosmic-dawn-experiment.xml" />
+			<file name="background-cosmic-dawn-experiment.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/backgrounds/background-cosmic-dawn-experiment.xml" />
 		</update>
 	</info>
 

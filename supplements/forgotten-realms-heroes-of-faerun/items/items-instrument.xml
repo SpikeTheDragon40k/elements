@@ -4,7 +4,7 @@
 		<name>Instruments</name>
 		<description>Instruments from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="items-instruments.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/items/items-instruments.xml" />
+			<file name="items-instruments.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/items/items-instruments.xml" />
 		</update>
 	</info>
 

@@ -4,7 +4,7 @@
 		<name>General Category Feats</name>
 		<description>General Feats from Astarion’s Book of Hungers.</description>
 		<update version="0.0.1">
-			<file name="feats-general.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/astarions-book-of-hungers/feats/feats-general.xml" />
+			<file name="feats-general.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/astarions-book-of-hungers/feats/feats-general.xml" />
 		</update>
 	</info>
 

@@ -4,7 +4,7 @@
 		<name>General Category Feats</name>
 		<description>The General Category Feats from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="feats-general.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/feats/feats-general.xml" />
+			<file name="feats-general.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/feats/feats-general.xml" />
 		</update>
 	</info>
 

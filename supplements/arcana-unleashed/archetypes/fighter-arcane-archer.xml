@@ -4,7 +4,7 @@
 		<name>Arcane Archer</name>
 		<description>The Arcane Archer subclass from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="fighter-arcane archer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/archetypes/fighter-arcane-archer.xml" />
+			<file name="fighter-arcane archer.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/archetypes/fighter-arcane-archer.xml" />
 		</update>
 	</info>
 

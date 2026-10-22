@@ -4,7 +4,7 @@
 		<name>Elf (Lorwyn)</name>
 		<description>The Elf species from Lorwyn: First Light.</description>
 		<update version="0.0.1">
-			<file name="race-elf.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/races/race-elf.xml" />
+			<file name="race-elf.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/races/race-elf.xml" />
 		</update>
 	</info>
 	

@@ -4,7 +4,7 @@
 		<name>Equipment Packs</name>
 		<description>Equipment Packs from the Player’s Handbook 2024.</description>
 		<update version="0.0.1">
-			<file name="items-packs.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook-2024/items/items-packs.xml" />
+			<file name="items-packs.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/players-handbook-2024/items/items-packs.xml" />
 		</update>
 	</info>
 

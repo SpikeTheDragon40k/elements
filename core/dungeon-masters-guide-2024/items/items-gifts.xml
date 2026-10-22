@@ -4,7 +4,7 @@
 		<name>Supernatural Gifts</name>
 		<description>Supernatural Gifts from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.1">
-			<file name="items-gifts.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/items/items-gifts.xml" />
+			<file name="items-gifts.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/items/items-gifts.xml" />
 		</update>
 	</info>
 

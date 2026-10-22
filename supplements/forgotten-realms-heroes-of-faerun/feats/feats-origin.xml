@@ -4,7 +4,7 @@
 		<name>Origin Feats</name>
 		<description>Origin Feats from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="feats-origin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/feats/feats-origin.xml" />
+			<file name="feats-origin.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/feats/feats-origin.xml" />
 		</update>
 	</info>
 		

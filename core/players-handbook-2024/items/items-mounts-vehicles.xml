@@ -4,7 +4,7 @@
 		<name>Mounts and Vehicles</name>
 		<description>Mounts and Vehicles from Player's Handbook 2024</description>
 		<update version="0.0.3">
-			<file name="items-mounts-vehicles.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook-2024/items/items-mounts-vehicles.xml" />
+			<file name="items-mounts-vehicles.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/players-handbook-2024/items/items-mounts-vehicles.xml" />
 		</update>
 	</info>
 

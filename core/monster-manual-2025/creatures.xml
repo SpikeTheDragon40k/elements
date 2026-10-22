@@ -4,7 +4,7 @@
 		<name>Creatures</name>
 		<description>Creature statblocks from the Monster Manual (2025).</description>
 		<update version="0.0.5">
-			<file name="creatures.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/monster-manual-2025/creatures.xml" />
+			<file name="creatures.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/monster-manual-2025/creatures.xml" />
 		</update>
 	</info>
 

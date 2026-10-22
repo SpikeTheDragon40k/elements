@@ -4,7 +4,7 @@
 		<name>Vestige Patron</name>
 		<description>The Vestige Patron subclass from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="warlock-vestige.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/archetypes/warlock-vestige.xml" />
+			<file name="warlock-vestige.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/archetypes/warlock-vestige.xml" />
 		</update>
 	</info>
 

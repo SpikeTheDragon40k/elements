@@ -4,7 +4,7 @@
 		<name>Replicate Magic Items</name>
 		<description>Replicate Magic Items options from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="artificer-replicate-magic-items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/items/artificer-replicate-magic-items.xml" />
+			<file name="artificer-replicate-magic-items.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/items/artificer-replicate-magic-items.xml" />
 		</update>
 	</info>
 

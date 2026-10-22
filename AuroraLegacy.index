@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Aurora Legacy</name>
-		<description>All indexs managed by the Aurora Legacy Team.</description>
-		<author url="https://github.com/AuroraLegacy/elements">Aurora Legacy Team</author>
-		<update version="0.0.1">
-			<file name="AuroraLegacy.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index" />
+		<name>Aurora Legacy (2024 rules)</name>
+		<description>All Aurora Legacy content for the 2024 rules (D&amp;D 5.5e).</description>
+		<author url="https://github.com/AuroraLegacy/elements">Aurora Legacy Team and contributors</author>
+		<update version="1.0.0">
+			<file name="AuroraLegacy.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/AuroraLegacy.index" />
 		</update>
 	</info>
 	<files>
-		<file name="core.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index" />
-		<file name="supplements.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index" />
-		<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana.index" />
-		<file name="collaborations.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/collaborations.index" />
+		<file name="core.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core.index" />
+		<file name="supplements.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements.index" />
 	</files>
 </index>

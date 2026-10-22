@@ -4,7 +4,7 @@
 		<name>Ice Fisher</name>
 		<description>The Ice Fisher background from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="background-ice-fisher.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-ice-fisher.xml" />
+			<file name="background-ice-fisher.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-ice-fisher.xml" />
 		</update>
 	</info>
 

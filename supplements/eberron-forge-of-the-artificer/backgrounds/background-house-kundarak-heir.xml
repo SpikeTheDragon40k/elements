@@ -4,7 +4,7 @@
 		<name>House Kundarak Heir</name>
 		<description>House Kundarak Heir background from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="background-house-kundarak-heir.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/backgrounds/background-house-kundarak-heir.xml" />
+			<file name="background-house-kundarak-heir.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/backgrounds/background-house-kundarak-heir.xml" />
 		</update>
 	</info>
 

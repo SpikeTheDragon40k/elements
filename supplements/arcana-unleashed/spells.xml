@@ -4,7 +4,7 @@
 		<name>Spells</name>
 		<description>Spells from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/spells.xml" />
 		</update>
 	</info>
 

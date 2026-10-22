@@ -4,7 +4,7 @@
 		<name>Trade Goods</name>
 		<description>Trade Goods from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.1">
-			<file name="items-trade-goods.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/items/items-trade-goods.xml" />
+			<file name="items-trade-goods.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/items/items-trade-goods.xml" />
 		</update>
 	</info>
 

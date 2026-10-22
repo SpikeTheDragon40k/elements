@@ -4,7 +4,7 @@
 		<name>Khoravar</name>
 		<description>The Khoravar species from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="race-khoravar.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/races/race-khoravar.xml" />
+			<file name="race-khoravar.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/races/race-khoravar.xml" />
 		</update>
 	</info>
 	

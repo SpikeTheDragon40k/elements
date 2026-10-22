@@ -4,7 +4,7 @@
 		<name>Artificer</name>
 		<description>The Artificer class from Eberron: Forge of the Artificer.</description>
 		<update version="0.0.1">
-			<file name="class-artificer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/classes/class-artificer.xml" />
+			<file name="class-artificer.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/classes/class-artificer.xml" />
 		</update>
 	</info>
 

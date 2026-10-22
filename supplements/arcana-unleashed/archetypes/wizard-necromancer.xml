@@ -4,7 +4,7 @@
 		<name>Necromancer</name>
 		<description>The Necromancer subclass from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="wizard-necromancer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/archetypes/wizard-necromancer.xml" />
+			<file name="wizard-necromancer.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/archetypes/wizard-necromancer.xml" />
 		</update>
 	</info>
 

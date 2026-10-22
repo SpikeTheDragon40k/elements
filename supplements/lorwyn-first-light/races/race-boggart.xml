@@ -4,7 +4,7 @@
 		<name>Boggart</name>
 		<description>The Boggart species from Lorwyn: First Light.</description>
 		<update version="0.0.1">
-			<file name="race-boggart.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/races/race-boggart.xml" />
+			<file name="race-boggart.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/races/race-boggart.xml" />
 		</update>
 	</info>
 	

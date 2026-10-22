@@ -4,7 +4,7 @@
 		<name>Winter Walker</name>
 		<description>The Winter Walker subclass from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="ranger-winter-walker.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/archetypes/ranger-winter-walker.xml" />
+			<file name="ranger-winter-walker.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/archetypes/ranger-winter-walker.xml" />
 		</update>
 	</info>
 

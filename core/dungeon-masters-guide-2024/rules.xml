@@ -4,7 +4,7 @@
 		<name>Rules</name>
 		<description>Useful rules from the Dungeon Master’s Guide (2024) to be used as a reference.</description>
 		<update version="0.0.1">
-			<file name="rules.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/rules.xml" />
+			<file name="rules.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/rules.xml" />
 		</update>
 	</info>
 

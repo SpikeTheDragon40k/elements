@@ -4,7 +4,7 @@
 		<name>Scrolls</name>
 		<description>Scrolls from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.1">
-			<file name="items-scrolls.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/items/items-scrolls.xml" />
+			<file name="items-scrolls.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/items/items-scrolls.xml" />
 		</update>
 	</info>
 

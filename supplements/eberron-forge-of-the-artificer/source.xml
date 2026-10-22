@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/source.xml" />
 		</update>
 	</info>
 	<element name="Eberron: Forge of the Artificer" type="Source" source="Core" id="ID_WOTC_SOURCE_EBERRON_FORGE_OF_THE_ARTIFICER">
@@ -20,7 +20,7 @@
 		<setters>
 			<set name="abbreviation">EFOTA</set>
 			<set name="url">https://marketplace.dndbeyond.com/category/5147000?pid=DB5147000/</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-forge-of-the-artificer/EFOTA.png</set>
+			<set name="image">https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/eberron-forge-of-the-artificer/EFOTA.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="information">D&amp;D 5.5e</set>
 			<set name="official">true</set>

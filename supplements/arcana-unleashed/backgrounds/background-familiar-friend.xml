@@ -4,7 +4,7 @@
 		<name>Familiar Trainer</name>
 		<description>The Familiar Trainer background from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="background-familiar-trainer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/backgrounds/background-familiar-trainer.xml" />
+			<file name="background-familiar-trainer.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/backgrounds/background-familiar-trainer.xml" />
 		</update>
 	</info>
 

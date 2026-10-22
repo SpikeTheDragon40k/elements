@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ravenloft-the-horrors-within/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/ravenloft-the-horrors-within/source.xml" />
 		</update>
 	</info>
 	<element name="Ravenloft: The Horrors Within" type="Source" source="Core" id="ID_WOTC_SOURCE_RAVENLOFT_THE_HORRORS_WITHIN">
@@ -12,7 +12,7 @@
 		<setters>
 			<set name="abbreviation">RHW</set>
 			<set name="url">https://marketplace.dndbeyond.com/category/6015000?pid=D6015000</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ravenloft-the-horrors-within/RHW.png</set>
+			<set name="image">https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/ravenloft-the-horrors-within/RHW.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="information">D&amp;D 5.5e</set>
 			<set name="official">true</set>

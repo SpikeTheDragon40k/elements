@@ -4,7 +4,7 @@
 		<name>Scion of the Three</name>
 		<description>The Scion of the Three subclass from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="rogue-scion-of-the-three.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/archetypes/rogue-scion-of-the-three.xml" />
+			<file name="rogue-scion-of-the-three.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/archetypes/rogue-scion-of-the-three.xml" />
 		</update>
 	</info>
 

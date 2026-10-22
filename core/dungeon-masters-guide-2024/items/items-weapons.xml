@@ -4,7 +4,7 @@
 		<name>Weapons</name>
 		<description>Magical Weapons from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.2">
-			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/items/items-weapons.xml" />
+			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/items/items-weapons.xml" />
 		</update>
 	</info>
 

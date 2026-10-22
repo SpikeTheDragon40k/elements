@@ -4,7 +4,7 @@
 		<name>Horizon Weaver Initiate</name>
 		<description>The Horizon Weaver Initiate background from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="background-horizon-weaver-initiate.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/backgrounds/background-horizon-weaver-initiate.xml" />
+			<file name="background-horizon-weaver-initiate.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/backgrounds/background-horizon-weaver-initiate.xml" />
 		</update>
 	</info>
 

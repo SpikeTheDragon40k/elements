@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/monster-manual-2025/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/monster-manual-2025/source.xml" />
 		</update>
 	</info>
 
@@ -22,7 +22,7 @@
 		<setters>
 			<set name="abbreviation">MM25</set>
 			<set name="url">https://marketplace.dndbeyond.com/core-rules/3711000</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/monster-manual-2025/MM25.png</set>
+			<set name="image">https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/monster-manual-2025/MM25.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="information">D&amp;D 5.5e</set>
 			<set name="official">true</set>

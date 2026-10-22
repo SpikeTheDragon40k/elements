@@ -4,7 +4,7 @@
 		<name>Wondrous Items</name>
 		<description>Wondrous Items from the Dungeon Master’s Guide (2024)</description>
 		<update version="0.0.2">
-			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide-2024/items/items-wondrous.xml" />
+			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024/items/items-wondrous.xml" />
 		</update>
 	</info>
 

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/source.xml" />
 		</update>
 	</info>
 	<element name="Forgotten Realms: Heroes of Faerûn" type="Source" source="Core" id="ID_WOTC_SOURCE_FORGOTTEN_REALMS_HEROES_OF_FAERUN">
@@ -12,7 +12,7 @@
 		<setters>
 			<set name="abbreviation">FRHOF</set>
 			<set name="url">https://marketplace.dndbeyond.com/category/4712000?pid=D4712000</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/FRHOF.png</set>
+			<set name="image">https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/FRHOF.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="information">D&amp;D 5.5e</set>
 			<set name="official">true</set>

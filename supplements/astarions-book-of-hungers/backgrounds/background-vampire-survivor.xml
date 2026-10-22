@@ -4,7 +4,7 @@
 		<name>Vampire Survivor</name>
 		<description>The Vampire Survivor Background from Astarion’s Book of Hungers.</description>
 		<update version="0.0.1">
-			<file name="background-vampire-survivor.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/astarions-book-of-hungers/backgrounds/background-vampire-survivor.xml" />
+			<file name="background-vampire-survivor.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/astarions-book-of-hungers/backgrounds/background-vampire-survivor.xml" />
 		</update>
 	</info>
 

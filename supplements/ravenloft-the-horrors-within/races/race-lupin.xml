@@ -4,7 +4,7 @@
 		<name>Lupin</name>
 		<description>The Lupin species from Ravenloft: The Horrors Within.</description>
 		<update version="0.0.1">
-			<file name="race-lupin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ravenloft-the-horrors-within/races/race-lupin.xml" />
+			<file name="race-lupin.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/ravenloft-the-horrors-within/races/race-lupin.xml" />
 		</update>
 	</info>
 	

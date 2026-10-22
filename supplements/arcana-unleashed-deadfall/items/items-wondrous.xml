@@ -4,7 +4,7 @@
 		<name>Wondrous Items</name>
 		<description>Wondrous Items from Arcana Unleashed: Deadfall</description>
 		<update version="0.0.1">
-			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed-deadfall/items/items-wondrous.xml" />
+			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed-deadfall/items/items-wondrous.xml" />
 		</update>
 	</info>
 

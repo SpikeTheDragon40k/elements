@@ -4,7 +4,7 @@
 		<name>Aurora Legacy Essentials</name>
 		<description>Elements that have functionality similar to Internals, but can appear in the Compendium.</description>
 		<update version="0.0.4">
-			<file name="ALE.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/ALE.xml" />
+			<file name="ALE.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/ALE.xml" />
 		</update>
 	</info>
 

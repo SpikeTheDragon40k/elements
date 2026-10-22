@@ -4,7 +4,7 @@
 		<name>Kithkin</name>
 		<description>The Kithkin species from Lorwyn: First Light.</description>
 		<update version="0.0.1">
-			<file name="race-kithkin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/races/race-kithkin.xml" />
+			<file name="race-kithkin.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/races/race-kithkin.xml" />
 		</update>
 	</info>
 	

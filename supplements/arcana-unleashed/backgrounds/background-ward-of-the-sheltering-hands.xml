@@ -4,7 +4,7 @@
 		<name>Ward of the Sheltering Hands</name>
 		<description>The Ward of the Sheltering Hands background from Arcana Unleashed.</description>
 		<update version="0.0.1">
-			<file name="background-ward-of-the-sheltering-hands.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed/backgrounds/background-ward-of-the-sheltering-hands.xml" />
+			<file name="background-ward-of-the-sheltering-hands.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/arcana-unleashed/backgrounds/background-ward-of-the-sheltering-hands.xml" />
 		</update>
 	</info>
 

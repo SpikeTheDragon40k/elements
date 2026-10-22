@@ -4,7 +4,7 @@
 		<name>Banneret</name>
 		<description>The Banneret subclass from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="fighter-banneret.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/archetypes/fighter-banneret.xml" />
+			<file name="fighter-banneret.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/archetypes/fighter-banneret.xml" />
 		</update>
 	</info>
 

@@ -4,7 +4,7 @@
 		<name>Mounts and Vehicles</name>
 		<description>Mounts and Vehicles from Forgotten Realms: Adventures in Faerûn.</description>
 		<update version="0.0.1">
-			<file name="items-mounts-vehicles.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-adventures-in-faerun/items/items-mounts-vehicles.xml" />
+			<file name="items-mounts-vehicles.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-adventures-in-faerun/items/items-mounts-vehicles.xml" />
 		</update>
 	</info>
 

@@ -4,7 +4,7 @@
 		<name>Knight of the Gauntlet</name>
 		<description>The Knight of the Gauntlet background from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="background-knight-of-the-gauntlet.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-knight-of-the-gauntlet.xml" />
+			<file name="background-knight-of-the-gauntlet.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/backgrounds/background-knight-of-the-gauntlet.xml" />
 		</update>
 	</info>
 

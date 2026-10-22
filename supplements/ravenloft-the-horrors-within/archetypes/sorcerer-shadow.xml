@@ -4,7 +4,7 @@
 		<name>Shadow Sorcery</name>
 		<description>The Shadow Sorcery subclass from Ravenloft: The Horrors Within</description>
 		<update version="0.0.1">
-			<file name="sorcerer-shadow.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplement/ravenloft-the-horrors-within/archetypes/sorcerer-shadow.xml" />
+			<file name="sorcerer-shadow.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplement/ravenloft-the-horrors-within/archetypes/sorcerer-shadow.xml" />
 		</update>
 	</info>
 

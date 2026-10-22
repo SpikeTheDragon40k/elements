@@ -4,7 +4,7 @@
 		<name>Rimekin</name>
 		<description>The Rimekin species from Lorwyn: First Light.</description>
 		<update version="0.0.1">
-			<file name="race-rimekin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light/races/race-rimekin.xml" />
+			<file name="race-rimekin.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/lorwyn-first-light/races/race-rimekin.xml" />
 		</update>
 	</info>
 	

@@ -4,7 +4,7 @@
 		<name>Origin Feats</name>
 		<description>Origin Feats from Astarion’s Book of Hungers.</description>
 		<update version="0.0.1">
-			<file name="feats-origin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/astarions-book-of-hungers/feats/feats-origin.xml" />
+			<file name="feats-origin.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/astarions-book-of-hungers/feats/feats-origin.xml" />
 		</update>
 	</info>
 		

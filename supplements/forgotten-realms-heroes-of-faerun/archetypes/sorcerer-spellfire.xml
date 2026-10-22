@@ -4,7 +4,7 @@
 		<name>Spellfire Sorcery</name>
 		<description>The Spellfire Sorcery subclass from Forgotten Realms: Heroes of Faerûn.</description>
 		<update version="0.0.1">
-			<file name="sorcerer-spellfire.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun/archetypes/sorcerer-spellfire.xml" />
+			<file name="sorcerer-spellfire.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/supplements/forgotten-realms-heroes-of-faerun/archetypes/sorcerer-spellfire.xml" />
 		</update>
 	</info>
 

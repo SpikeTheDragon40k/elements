@@ -4,7 +4,7 @@
 		<name>Internal</name>
 		<description>Elements that should've been part of the app itself</description>
 		<update version="0.1.8">
-			<file name="internal.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/internal.xml" />
+			<file name="internal.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/internal.xml" />
 		</update>
 	</info>
 
