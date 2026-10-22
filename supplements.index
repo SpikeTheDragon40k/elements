@@ -60,6 +60,8 @@
 		<file name="forgotten-realms-heroes-of-faerun.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-heroes-of-faerun.index" />
 		<file name="forgotten-realms-adventures-in-faerun.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/forgotten-realms-adventures-in-faerun.index" />
 		<file name="lorwyn-first-light.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/lorwyn-first-light.index" />
+		<file name="arcana-unleashed.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed.index" />
+		<file name="arcana-unleashed-deadfall.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/arcana-unleashed-deadfall.index" />
 
 		<file name="adventurers-league.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/adventurers-league.index" />
 		<file name="dnd-beyond.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond.index" />
