@@ -102,7 +102,7 @@
 			<description>When you take the Help action to assist an ally’s attack roll, the enemy you’re distracting can be within 30 feet of you, rather than within 5 feet of you, provided the enemy can see or hear you.</description>
 		</sheet>
 		<rules>
-			<grant type="Language" id="ID_LANGUAGE_THIEVES_CANT" />
+			<grant type="Language" id="ID_WOTC_PHB_LANGUAGE_THIEVES_CANT" />
 			<select type="Proficiency" name="Musical Instrument Proficiency (Harper Agent)" supports="Musical Instrument" />
 		</rules>
 	</element>

@@ -19,7 +19,7 @@
 			</ul>
 			<p>You bear the gift of spellfire: a rare form of magic that channels the raw power of the Weave. Wielding spellfire takes a heavy toll on the body. You’ve trained both mind and body to efficiently wield this sacred power.</p>
 			<div class="reference">
-				<div element="ID_WOTC_FRHOF_FEAT_SPELLFIRE_INITIATE" />
+				<div element="ID_WOTC_FRHOF_FEAT_SPELLFIRE_SPARK" />
 			</div>
 		</description>
 		<setters>
@@ -27,7 +27,7 @@
 		</setters>
 		<rules>
 			<grant type="Ability Score Improvement" id="ID_INTERNAL_ABILITY_SCORE_IMPROVEMENT_COMBINATION_CON_INT_CHA" />
-			<grant type="Feat" id="ID_WOTC_FRHOF_FEAT_SPELLFIRE_INITIATE" />
+			<grant type="Feat" id="ID_WOTC_FRHOF_FEAT_SPELLFIRE_SPARK" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ARCANA" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
 			<grant type="Grants" id="ID_INTERNAL_GRANTS_BACKGROUND_ASI" />

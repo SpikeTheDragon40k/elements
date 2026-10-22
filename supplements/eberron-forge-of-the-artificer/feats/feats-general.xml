@@ -152,7 +152,7 @@
 		<rules>
 			<stat name="ever hospitable:die" value="1d6" inline="true" />
 			<select type="Ability Score Improvement" name="Ability Score Increase (Greater Mark of Hospitality)" supports="Feat Ability Score Increase" />
-			<select type="Feat Feature" name="Inspired Hospitality Ability (Greater Mark of Hospitality)" supports="Inpsired Hospitality Ability" />
+			<select type="Feat Feature" name="Inspired Hospitality Ability (Greater Mark of Hospitality)" supports="Inspired Hospitality Ability" />
 		</rules>
 	</element>
 	<element name="Intelligence" type="Feat Feature" source="Eberron: Forge of the Artificer" id="ID_WOTC_EFOTA_FEAT_GREATER_MARK_OF_HOSPITALITY_INSPIRED_HOSPITALITY_INTELLIGENCE">

@@ -32,7 +32,7 @@
 				<tr><td>6</td><td>An antler shaped like an Elvish rune</td></tr>
 			</table>
 			<div class="reference">
-				<div element="ID_WOTC_FRHOF_FEAT_EMERALD_ENCLAVE_FLEDGING" />
+				<div element="ID_WOTC_FRHOF_FEAT_EMERALD_ENCLAVE_FLEDGLING" />
 			</div>
 		</description>
 		<setters>
@@ -40,7 +40,7 @@
 		</setters>
 		<rules>
 			<grant type="Ability Score Improvement" id="ID_INTERNAL_ABILITY_SCORE_IMPROVEMENT_COMBINATION_CON_INT_WIS" />
-			<grant type="Feat" id="ID_WOTC_FRHOF_FEAT_EMERALD_ENCLAVE_FLEDGING" />
+			<grant type="Feat" id="ID_WOTC_FRHOF_FEAT_EMERALD_ENCLAVE_FLEDGLING" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SURVIVAL" />
 			<grant type="Grants" id="ID_INTERNAL_GRANTS_BACKGROUND_ASI" />

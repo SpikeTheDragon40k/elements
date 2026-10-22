@@ -1264,6 +1264,8 @@
 	<element name="Race Dark Elf" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_DARK_ELF" />
 	<element name="Race High Elf" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_HIGH_ELF" />
 	<element name="Race Wood Elf" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_WOOD_ELF" />
+	<element name="Race Lorwyn Elf" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_LORWYN_ELF" />
+	<element name="Race Shadowmoor Elf" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_SHADOWMOOR_ELF" />
 	<element name="Race Gnome" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_GNOME" />
 	<element name="Race Goblinoid" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_GOBLINOID" />
 	<element name="Race Half-Elf" type="Grants" source="Internal" id="ID_INTERNAL_GRANT_RACE_HALF_ELF" />
