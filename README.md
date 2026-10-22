@@ -1,3 +1,17 @@
+# Aurora Legacy: 2024 rules only (dnd-2024 branch)
+
+This branch keeps only content for the **2024 rules (D&D 5.5e)**, so nothing written for the 2014 rules can end up on a 5.5e character:
+
+* the shared `core/internal.xml` and `core/ALE.xml`;
+* Player's Handbook (2024), Dungeon Master's Guide (2024), Monster Manual (2025);
+* the 2024 books from Aurora Legacy pull requests not merged upstream yet: Astarion's Book of Hungers and Netheril's Fall (#334), Forgotten Realms: Heroes of Faerûn and Adventures in Faerûn (#335), Lorwyn: First Light (#340), Eberron: Forge of the Artificer (#341), Arcana Unleashed and Arcana Unleashed: Deadfall (#354), Ravenloft: The Horrors Within (#355), with fixes for broken references.
+
+Master index (Aurora Builder's *Additional Content* tab, or DaybreakBuilder's Content page): https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/AuroraLegacy.index
+
+`master` stays an unmodified copy of [AuroraLegacy/elements](https://github.com/AuroraLegacy/elements). The original README follows.
+
+---
+
 # Aurora Builder
 Visit the [website](http://www.aurorabuilder.com "Aurora Website") for more information about the Aurora character builder app.
 
