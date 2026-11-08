@@ -17,5 +17,8 @@
 		<file name="players-handbook-2024.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/players-handbook-2024.index" />
 		<file name="dungeon-masters-guide-2024.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/dungeon-masters-guide-2024.index" />
 		<file name="monster-manual-2025.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/monster-manual-2025.index" />
+
+		<!-- Free 2024 rules content (CC-BY-4.0) -->
+		<file name="system-reference-document-5.2.1.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/system-reference-document-5.2.1.index" />
 	</files>
 </index>

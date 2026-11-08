@@ -4,6 +4,7 @@ This branch keeps only content for the **2024 rules (D&D 5.5e)**, so nothing wri
 
 * the shared `core/internal.xml` and `core/ALE.xml`;
 * Player's Handbook (2024), Dungeon Master's Guide (2024), Monster Manual (2025);
+* the monsters of the System Reference Document 5.2.1 (`core/system-reference-document-5.2.1`), the ones the Monster Manual (2025) file doesn't have. They include material from the SRD 5.2.1 by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode);
 * the 2024 books from Aurora Legacy pull requests not merged upstream yet: Astarion's Book of Hungers and Netheril's Fall (#334), Forgotten Realms: Heroes of Faerûn and Adventures in Faerûn (#335), Lorwyn: First Light (#340), Eberron: Forge of the Artificer (#341), Arcana Unleashed and Arcana Unleashed: Deadfall (#354), Ravenloft: The Horrors Within (#355), with fixes for broken references.
 
 Master index (Aurora Builder's *Additional Content* tab, or DaybreakBuilder's Content page): https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/AuroraLegacy.index
