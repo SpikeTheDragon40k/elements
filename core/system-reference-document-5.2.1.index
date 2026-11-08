@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>System Reference Document 5.2.1</name>
+		<description>Monster stat blocks from the free System Reference Document 5.2.1 (2024 rules), licensed under CC-BY-4.0.</description>
+		<author url="https://www.dndbeyond.com/srd">Wizards of the Coast</author>
+		<update version="0.0.1">
+			<file name="system-reference-document-5.2.1.index" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/system-reference-document-5.2.1.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/system-reference-document-5.2.1/source.xml" />
+
+		<file name="creatures.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/system-reference-document-5.2.1/creatures.xml" />
+	</files>
+</index>

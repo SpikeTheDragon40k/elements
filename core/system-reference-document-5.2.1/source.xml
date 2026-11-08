@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode. -->
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/SpikeTheDragon40k/elements/dnd-2024/core/system-reference-document-5.2.1/source.xml" />
+		</update>
+	</info>
+
+	<element name="System Reference Document 5.2.1" type="Source" source="Core" id="ID_WOTC_SOURCE_SYSTEM_REFERENCE_DOCUMENT_5_2_1">
+		<description>
+			<p>The System Reference Document 5.2.1 is the free, openly licensed part of the 2024 rules. This source holds its monster stat blocks (the creatures the Monster Manual (2025) file doesn't already have), so encounters, the compendium and initiative trackers have goblins, orcs, bandits, dragons and the rest.</p>
+			<p>This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.</p>
+		</description>
+		<setters>
+			<set name="abbreviation">SRD52</set>
+			<set name="url">https://www.dndbeyond.com/srd</set>
+			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
+			<set name="information">D&amp;D 5.5e</set>
+			<set name="official">true</set>
+			<set name="core">false</set>
+			<set name="supplement">true</set>
+			<set name="release">20250429</set>
+		</setters>
+	</element>
+</elements>
