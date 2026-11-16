@@ -31,8 +31,9 @@ Master index (Aurora Builder's *Additional Content* tab, or DaybreakBuilder's Co
 | Ravenloft: The Horrors Within | 2026 | Setting sourcebook | ✅ | #355 |
 | Arcana Unleashed | Sep 2026 | Sourcebook | ✅ | #354 |
 | Arcana Unleashed: Deadfall | Sep 2026 | Adventure | ✅ | #354 |
+| D&D Beyond Drops | ongoing | Digital mini-supplements | ❌ | — |
 | Unearthed Arcana (2024+ playtests) | ongoing | Playtest | ❌ | — |
-| Winter 2026 book (unannounced) | TBA | — | ❌ | — |
+| D&D: World of Warcraft | TBA (announced) | Setting sourcebook | ❌ | — |
 
 Release dates are approximate; check D&D Beyond for exact ones.
 
